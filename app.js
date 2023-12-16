@@ -4,5 +4,3 @@ h1.style.backgroundColor="red";
 let form = document.querySelector("form");
 let div = document.querySelector("div");
 console.log("im fine");
-
-let form = document.querySelector("form");
